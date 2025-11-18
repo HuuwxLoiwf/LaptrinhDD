@@ -1,6 +1,11 @@
 # twitterclone
 
-A new Flutter project.
+A Flutter project clone Twitter
+
+Language: Dart, Flutter
+
+Database: Firebase
+
 
 ## Getting Started
 
